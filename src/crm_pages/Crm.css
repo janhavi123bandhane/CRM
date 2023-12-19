@@ -1,0 +1,132 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+*{
+    margin:0px;
+    padding:0px;
+   
+  }
+  nav{
+    padding-top:0rem;
+  }
+  .navbar{
+  
+    width:120rem;
+    height:7rem;
+    background-color:#9BB8CD;
+    display:flex;
+    justify-content:space-evenly;
+    padding-top:1.5rem;
+  }
+  .search{
+    width:30rem;
+    height:3rem;
+    border-radius:2rem;
+    background-color:#c0c0c0;  
+    text-color:black;
+   
+  }
+  .box{
+  
+    width:29rem;
+    height:4rem;
+    background-color:#00004d;
+    border-radius:2rem;
+    display:flex;
+    justify-content:space-evenly;
+    padding-top:0.8rem;
+    font-size:1.5rem;
+    color:white;
+    
+  }
+  
+  button{
+    background-color:#c0c0c0;  
+   
+    width:8rem;
+    border-radius:2rem;
+    height:4rem;
+  }
+  .nav2{
+  
+  width:120rem;
+  height:4rem;
+  background-color:#776B5D;
+  padding:3.5rem;
+
+}
+.select{
+  display:flex;
+  justify-content:space-between;
+  font-size:1.6rem;
+  margin-top:-1rem;
+ 
+}
+select{
+  background:#776B5D;
+  color:white;
+ 
+}
+.nav3{
+    width:100rem;
+    height:4rem;
+    background-color:green;
+    margin-top:2.5rem;
+    display:flex;
+    flex-warp:warp;
+    justify-content:space-evenly;
+    padding-top:1rem;
+    margin-left:10rem;
+    border-radius:10rem;
+    
+  }
+  .options{
+    font-size:1.5rem;
+    color:white;
+  } 
+  .boxs{
+ 
+    display:flex;
+    justify-content:space-evenly;
+    margin-top:2rem;
+  }
+  .box1{
+    width:20rem;
+    height:24rem;
+    background-color:#c0c0c0;
+    border-radius:1.5rem;
+  }
+  .btnf{
+    display:flex;
+    justify-content:space-evenly;
+    margin-top:2rem;
+  }
+  .first3{
+   
+    width:16rem;
+    height:4rem;
+    background-color:#c0c0c0;
+    border-radius:1.5rem;
+    padding-top:0.7rem;    
+  }
+  .btns{
+    display:flex;
+    justify-content:space-evenly;
+    margin-top:2rem;
+  }
+  .sec3{
+   
+    width:16rem;
+    height:4rem;
+    background-color:#c0c0c0;
+    border-radius:1.5rem;
+    padding-top:0.7rem;   
+  
+  }
+  .Footers{
+    font-size:1.5rem;
+    text-align:center;
+  }
+  
